@@ -1,7 +1,7 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   AUTHOR: 'Nibbles', // 作者
-  BIO: '分享技术笔记项目与软硬件评测', // 作者简介
+  BIO: 'Nibbles Studio创始人', // 作者简介
   LINK: 'https://tangly1024.com', // 网站地址
   KEYWORDS: 'Nibbles,博客,Nibbles Blog,半字节博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
