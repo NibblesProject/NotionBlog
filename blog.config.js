@@ -5,7 +5,7 @@ const BLOG = {
   LINK: 'https://tangly1024.com', // 网站地址
   KEYWORDS: 'Nibbles,博客,Nibbles Blog,半字节博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
-  process.env.NOTION_PAGE_ID || 'a6eae34f87864fb4892af30bbaf73b5f?v=560eb8bc4c6248a9bdf08bcc1c2b46b7', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
+  process.env.NOTION_PAGE_ID || 'a6eae34f87864fb4892af30bbaf73b5f', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
   DEBUG: process.env.NEXT_PUBLIC_DEBUG || false, // 是否显示调试按钮
 
